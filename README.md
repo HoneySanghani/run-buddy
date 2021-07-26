@@ -11,6 +11,7 @@ CSS
 https://HoneySanghani.github.io/run-buddy/
 
 ## Repository
+https://github.com/HoneySanghani/run-buddy.git
 
 ## Contribution
 Made with ❤️ by Honey Sanghani
